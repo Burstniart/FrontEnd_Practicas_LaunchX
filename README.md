@@ -1,10 +1,10 @@
 # FrontEnd_Practicas_LaunchX
-Practicas del acercamiento inicial al proceso de desarrollo de software
+Prácticas del acercamiento inicial al proceso de desarrollo de software
 
 ## Toma de requerimientos
 <a href="https://github.com/Burstniart/FrontEnd_Practicas_LaunchX/blob/main/Requerimientos/Requerimientos.pdf">Requerimientos</a><br>
 El documentos se compone de 4 parte:
-### 1.- Descripcion general del requerimiento
+### 1.- Descripción general del requerimiento
 Consta de los datos del caso que se analiza
 
 ### 2.- Fase de formalización
